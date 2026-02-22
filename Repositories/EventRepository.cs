@@ -1,6 +1,6 @@
 namespace EventManagement.Repositories;
 
 
-//public class EventRepository : IEventRepository {
+public class EventRepository : IEventRepository {
 
-//}
+}
